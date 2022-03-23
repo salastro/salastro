@@ -39,5 +39,6 @@ jobs:
           plugin_people_types: followers, following
           plugin_rss: yes
           plugin_rss_limit: 4
+          plugin_rss_source: https://salastro.github.io/index.xml
           plugin_stars: yes
           plugin_stars_limit: 4
