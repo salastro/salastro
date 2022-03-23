@@ -42,3 +42,5 @@ jobs:
           plugin_rss_source: https://salastro.github.io/index.xml
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_repositories_forks: yes
+          repositories_forks: yes
