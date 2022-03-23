@@ -16,10 +16,7 @@ jobs:
           user: salastro
           template: classic
           base: header, activity, community, repositories
-          config_display: columns
           config_timezone: Europe/Athens
-          plugin_followup: yes
-          plugin_followup_sections: repositories
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
@@ -36,9 +33,11 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
           plugin_rss: yes
-          plugin_rss_limit: 3
-          plugin_rss_source: https://salastro.github.io/index.xml
+          plugin_rss_limit: 4
           plugin_stars: yes
-          plugin_stars_limit: 3
-          repositories_forks: yes
+          plugin_stars_limit: 4
