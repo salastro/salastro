@@ -16,6 +16,7 @@ jobs:
           user: salastro
           template: classic
           base: header, activity, community, repositories
+          config_order: base.header ,introduction ,base.activity+community ,base.repositories ,isocalendar ,languages ,habits ,rss ,stars ,people
           config_timezone: Europe/Athens
           plugin_habits: yes
           plugin_habits_days: 14
