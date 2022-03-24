@@ -16,7 +16,7 @@ jobs:
           user: salastro
           template: classic
           base: header, activity, community, repositories
-          config_order: base.header ,introduction ,base.activity+community ,base.repositories ,isocalendar ,languages ,habits ,rss ,stars ,people
+          config_order: base.header ,introduction ,base.activity+community ,base.repositories ,isocalendar ,languages ,habits ,wakatime ,rss ,stars ,people
           config_timezone: Europe/Athens
           plugin_habits: yes
           plugin_habits_days: 14
@@ -45,3 +45,9 @@ jobs:
           plugin_stars_limit: 4
           plugin_repositories_forks: yes
           repositories_forks: yes
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
