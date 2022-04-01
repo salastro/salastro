@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1109 Commits
+                            1106 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1305,15 +1305,127 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 78 commits)</small>
+                    <small class="h-details">(computed from last 79 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.2 characters per line of code written</li>
+                        <li>Has approximately 37.4 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
+                </div>
+            </section>
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M2.75 1a.75.75 0 000 1.5h.75v1.25a4.75 4.75 0 001.9 3.8l.333.25c.134.1.134.3 0 .4l-.333.25a4.75 4.75 0 00-1.9 3.8v1.25h-.75a.75.75 0 000 1.5h10.5a.75.75 0 000-1.5h-.75v-1.25a4.75 4.75 0 00-1.9-3.8l-.333-.25a.25.25 0 010-.4l.333-.25a4.75 4.75 0 001.9-3.8V2.5h.75a.75.75 0 000-1.5H2.75zM11 2.5H5v1.25a3.25 3.25 0 001.3 2.6l.333.25c.934.7.934 2.1 0 2.8l-.333.25a3.25 3.25 0 00-1.3 2.6v1.25h6v-1.25a3.25 3.25 0 00-1.3-2.6l-.333-.25a1.75 1.75 0 010-2.8l.333-.25a3.25 3.25 0 001.3-2.6V2.5z"/>
+                    </svg>
+                    WakaTime (over last week)
+                </h2>
+                <div class="row">
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
+                            </svg>
+                            ~22 coding hours recorded
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                            </svg>
+                            Working on fablab@qenastem
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                            </svg>
+                            Mostly coding in Markdown
+                        </div>
+                    </section>
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
+                            </svg>
+                            ~4 hours of coding per day
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0114.25 15H1.75A1.75 1.75 0 010 13.25V2.75zm1.75-.25a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V2.75a.25.25 0 00-.25-.25H1.75zM7.25 8a.75.75 0 01-.22.53l-2.25 2.25a.75.75 0 11-1.06-1.06L5.44 8 3.72 6.28a.75.75 0 111.06-1.06l2.25 2.25c.141.14.22.331.22.53zm1.5 1.5a.75.75 0 000 1.5h3a.75.75 0 000-1.5h-3z"/>
+                            </svg>
+                            Coding with Neovim
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M6.5.75a.75.75 0 00-1.5 0V2H3.75A1.75 1.75 0 002 3.75V5H.75a.75.75 0 000 1.5H2v3H.75a.75.75 0 000 1.5H2v1.25c0 .966.784 1.75 1.75 1.75H5v1.25a.75.75 0 001.5 0V14h3v1.25a.75.75 0 001.5 0V14h1.25A1.75 1.75 0 0014 12.25V11h1.25a.75.75 0 000-1.5H14v-3h1.25a.75.75 0 000-1.5H14V3.75A1.75 1.75 0 0012.25 2H11V.75a.75.75 0 00-1.5 0V2h-3V.75zm5.75 11.75h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25zM5.75 5a.75.75 0 00-.75.75v4.5c0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75v-4.5a.75.75 0 00-.75-.75h-4.5zm.75 4.5v-3h3v3h-3z"/>
+                            </svg>
+                            Using Linux
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="column chart">
+                        <h3>Projects activity</h3>
+                        <div class="chart-bars horizontal">
+                            <div class="entry">
+                                <span class="name">fablab@qenastem</span>
+                                <div class="bar" style="width: 26.839999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">34%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Unknown Project</span>
+                                <div class="bar" style="width: 25.704%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">32%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">PaperMod</span>
+                                <div class="bar" style="width: 6.36%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Terminal</span>
+                                <div class="bar" style="width: 5.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">hugo-theme-cleanwhite</span>
+                                <div class="bar" style="width: 3.8880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="column chart">
+                        <h3>Language activity</h3>
+                        <div class="chart-bars horizontal">
+                            <div class="entry">
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 15.936000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">APL</span>
+                                <div class="bar" style="width: 13.919999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">TOML</span>
+                                <div class="bar" style="width: 13.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">HTML</span>
+                                <div class="bar" style="width: 10.815999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">sh</span>
+                                <div class="bar" style="width: 8.863999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
+                            </div>
+                        </div>
+                    </section>
                 </div>
             </section>
             <section>
@@ -1637,118 +1749,6 @@
                         <img class="avatar" src="data:image/jpeg;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAIkElEQVR4AUXBW2ycZ5nA8f/zft8354Njj8eOndjOyTVpk7ZJk4pkWyIOLVAKrTiDxBVICHHJFVcrccEFEkIICSGkvVgQF2jRSgtFu9tAk6JWCqVp2rRp3NhxDrbH9sx4zjPf8X2Iuxf7+4kfBYqCqkUQUGWPqqKqREFIKp2l1WgxMTVOb9CnmC8QBz6pTI4PCQ8o/08ARRVEQNWAKHvcYRCBKqhFVRC1oDGogrU06jtMTR8kjAICf0gchsSpECEmjiMwgoigalEUQRAxqCpqE/aIcdljFVw0QVVQq4BFeUAthj2KIIBFHQuqqFpUFRWLwSIqKMIe4QHhAQsoFiXSBE0U0SGOE+BebXcITZN9qXHm3DIOggKOKg4KoqhasBZVBQuqgFGsWkQBAREH1BJHMaN2zO4bHXaDEX9xhNi1tJ6sU0mt4f7+h6+QO3eQwdNvMVY+xyMpy8dNFTEGCFEEsKCKqgUjqCokCo6iPKAQ9Ldorl1m+fJ/06v36b4/RV96bEbfoN73OfndebY+eRZnMV341/bb0wQvNygdnOHGkQJxkuWogGDw+x0KxSJRPyaTzxAnMV7KRdSgIuwZdGqsvPpTdu6usLG6SuGtqzT6t2k1azy+EBAE5/DaDnOPHsQNun/m+MEete732f5Zien9aa7PuTxmI2ZSAuKgxiHCoCj/R0BjRAw2Sdh+/yLtzg6SfIqJMZfoM1WS9b8zv53gliKePl4jGC4ysdvEfWjaodl7k8dKr3FvVKDwJ4fhd1xuZYUDksEiWBUSQAUSUUDBcwEhGHVZv/4arbFdcqu75CoX2PJXOProGGZ7k4RJcH36lZjWxQHu4QtVwpsD0o3LTCefZxAEZFIOR8SBxKBq2WMVVAyhAUT4kCqjXoNG4z5yc5M7N35N6RNfozs9Sy4Xkh7r0bl2ldzYFtfeGCHFRzDlY6dYcIaEMxPIhTRPfXbEixIxFQsKqFpUQIlQFSQlgKIIe6LQJ58rEPUMByaW2C/THAy3yXV9ciyR7WzSvX6Nk4d2yHfyuN3XqiQL32RqYRHvjs++XJ5JAyIJooKogBVAsAomAptWBItV8NI5sBHmUJHp8Wcw4ztkUk1cycGoT/ncKcb8f2D2LzGWymAev3CA6RM3mZ4MyB+bYFDM4oklRFBVVBTFYnAAxVghsWCtoNaSyo7R6kc8efwzbKWGXK5V8QpH6LlpJvY/Tb58iq49y43dw5ROgikVDKX+KbzeNMmpiLwfIhZc66FYFFAFTxwURRWsWiyKqpLOFjn93A/4+S9+y/H8Br14nW6SoezmabVWGb73PsXKGSb9Ao+9kMW0/QkGiTCYVNJRxMSEElgXVy1oAqqgPKAIoFYRMVi1WPYIhx85x0df/ApXby1z/uFpRiYNdp6yP0QOVcnNPIu35JLKpDDOwCcqjqFzj1LICbiC4AAWg8Wg7EmcEFWw1oLyIUVQVeJoxNTsHFHyEWR7DfwNfG+NmlkivDeGznlE69Br+bh9jakuXYAASpU8oyCgkPfo9wdkszmcTJYoikBcksRibcKoP6RbqzMqFBh0OrRqawRdD2bLvHUzwLUNnnrmCdoLAY1Sk+zqn5hdd1j+2xLu8c+9AAiDYZ9sNsVgt48xHp2BTypbIJ0pEidKOp0mCgLiQczdnTrbrS4dYvzwNlPeOE1vk3Shzr7Zr9G5f5fK6WexyQ5XDm+QutVkJmhx5fIy7s7yJuOFNDKeA7VkUylsFFLMZzEoo2GPYnmM4XCIJy5JGHDl5hbbxGSPxdwOJ5jcCem+fof9i8eo+38nyX6EldoazmCZubrHG5e2qMx9i3q5jeuHPuaV+3hfeowkTEg5LkkckfFcsBFhMMCVEhoFZMpZ/vjXNf5waZfgdI3Wr2sM36yTljs0V2/iGuHw2SPo+Lu8+7KhnG+xemOFUVAkMVfYN3MItzw/yWChimMT1HX4wAu49Lt/I3UvYm15hSCdZ/NexGzhefZlyqzt5EgndRpX/osfffkr/G67y+1GwrCSEIUjtjbuM3jvKqogAqoKrovqNYYrKYwjBuMYHNfFGHAiy9THzlBv1DldfYK15RUOlDJIc5loY41hsI5xaixMlXmosUS7v47BQgbUJkiYoNaiNkFREJAkQa0lSXzk+9/7tn7jy1/lUPE4rUKTTDaHjWPC3ohcNk+tdo+p6n7a2yO6/TY//skfeP+dZULdxvUsXi6i3Q6RjEcysCQaI9ZBbIgxComCwGSlQGO3j/vsFz9N5Hr8Z/8/mNwd48bL7zA/M8Xy3TaNdo9hmKM6vY8vPfMcxiif/cIqC/MRf/yfDE7BMHf0IT5aTVjf+oC5fbP0620y+SyFUoXQ99n1A4LhgKzr0aw3cR8/cZrQD7m49hqdwzna6SEbf/5fMrKf12/dYDfcTzab4sThT3DsQMKZsyFq4eKrBSIiwriCk2vy3t1l8IUxJ0vgJtBpsXl/k6nFeUoTRUpjFWaOjeP+6pe/4X53laXJWZ7xNtk48STjTz9PlhzPj3rc3+owOTlFEsSsNX3+/Sd1gs5RRuEt5k+Mk2WZ1t2Q+cwCSR+GaUM6zOMZl3y+BL2E9q5l673r2HQR9+qrr0M+INjo40oaf3WL9JEZoijGeIJjlJMz8xTSWd5+N8PJE89htMwZ7xjlaoEBMW++cpWUV2W7cwc7apD3a5D3iKMR5+fOMyFlRpf2Udcy7sPHD/OPi5fopdpcbXVxszlqL60Th0OyReHUv5xlYXaR80+cYXGhxFNPfQ+sBQutd1fxG7e5W6nR7rcoVSrc2llmKwjJFNJ4Ey5Pfv1jVEuLTN5yeEt85OPnX9BTJ+f44ldfRIxDYhziaERCjCRClPgsLT5MOBjx0ktvcP2dtxEBRclnDEeq43gzFdJOmlEY0mzXub16myPHj5LOpKhMVBl0fJIPQq6trPJPvNp8c2PV8VEAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
-                    </section>
-                </div>
-            </section>
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M2.75 1a.75.75 0 000 1.5h.75v1.25a4.75 4.75 0 001.9 3.8l.333.25c.134.1.134.3 0 .4l-.333.25a4.75 4.75 0 00-1.9 3.8v1.25h-.75a.75.75 0 000 1.5h10.5a.75.75 0 000-1.5h-.75v-1.25a4.75 4.75 0 00-1.9-3.8l-.333-.25a.25.25 0 010-.4l.333-.25a4.75 4.75 0 001.9-3.8V2.5h.75a.75.75 0 000-1.5H2.75zM11 2.5H5v1.25a3.25 3.25 0 001.3 2.6l.333.25c.934.7.934 2.1 0 2.8l-.333.25a3.25 3.25 0 00-1.3 2.6v1.25h6v-1.25a3.25 3.25 0 00-1.3-2.6l-.333-.25a1.75 1.75 0 010-2.8l.333-.25a3.25 3.25 0 001.3-2.6V2.5z"/>
-                    </svg>
-                    WakaTime (over last week)
-                </h2>
-                <div class="row">
-                    <section class="largeable-column-fields">
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
-                            </svg>
-                            ~22 coding hours recorded
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                            </svg>
-                            Working on fablab@qenastem
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                            </svg>
-                            Mostly coding in Markdown
-                        </div>
-                    </section>
-                    <section class="largeable-column-fields">
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
-                            </svg>
-                            ~4 hours of coding per day
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0114.25 15H1.75A1.75 1.75 0 010 13.25V2.75zm1.75-.25a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V2.75a.25.25 0 00-.25-.25H1.75zM7.25 8a.75.75 0 01-.22.53l-2.25 2.25a.75.75 0 11-1.06-1.06L5.44 8 3.72 6.28a.75.75 0 111.06-1.06l2.25 2.25c.141.14.22.331.22.53zm1.5 1.5a.75.75 0 000 1.5h3a.75.75 0 000-1.5h-3z"/>
-                            </svg>
-                            Coding with Neovim
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M6.5.75a.75.75 0 00-1.5 0V2H3.75A1.75 1.75 0 002 3.75V5H.75a.75.75 0 000 1.5H2v3H.75a.75.75 0 000 1.5H2v1.25c0 .966.784 1.75 1.75 1.75H5v1.25a.75.75 0 001.5 0V14h3v1.25a.75.75 0 001.5 0V14h1.25A1.75 1.75 0 0014 12.25V11h1.25a.75.75 0 000-1.5H14v-3h1.25a.75.75 0 000-1.5H14V3.75A1.75 1.75 0 0012.25 2H11V.75a.75.75 0 00-1.5 0V2h-3V.75zm5.75 11.75h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25zM5.75 5a.75.75 0 00-.75.75v4.5c0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75v-4.5a.75.75 0 00-.75-.75h-4.5zm.75 4.5v-3h3v3h-3z"/>
-                            </svg>
-                            Using Linux
-                        </div>
-                    </section>
-                </div>
-                <div class="row">
-                    <section class="column chart">
-                        <h3>Projects activity</h3>
-                        <div class="chart-bars horizontal">
-                            <div class="entry">
-                                <span class="name">fablab@qenastem</span>
-                                <div class="bar" style="width: 26.839999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">34%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 25.704%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">32%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">PaperMod</span>
-                                <div class="bar" style="width: 6.36%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Terminal</span>
-                                <div class="bar" style="width: 5.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">hugo-theme-cleanwhite</span>
-                                <div class="bar" style="width: 3.8880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
-                            </div>
-                        </div>
-                    </section>
-                    <section class="column chart">
-                        <h3>Language activity</h3>
-                        <div class="chart-bars horizontal">
-                            <div class="entry">
-                                <span class="name">Markdown</span>
-                                <div class="bar" style="width: 15.936000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">APL</span>
-                                <div class="bar" style="width: 13.919999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">TOML</span>
-                                <div class="bar" style="width: 13.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">HTML</span>
-                                <div class="bar" style="width: 10.815999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">sh</span>
-                                <div class="bar" style="width: 8.863999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
-                            </div>
-                        </div>
                     </section>
                 </div>
             </section>
