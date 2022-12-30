@@ -27,18 +27,9 @@ jobs:
           # Options
           user: salastro
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           base_indepth: yes
           config_timezone: Africa/Cairo
-          plugin_chess: yes
-          plugin_chess_animation: {
-  "size": 40,
-  "delay": 3,
-  "duration": 0.6
-}
-
-          plugin_chess_platform: lichess.org
-          plugin_chess_user: Salah_El-Din
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
@@ -88,6 +79,5 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
-          # plugin_wakatime_user: salastro
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_user: salastro
           repositories_forks: yes
