@@ -38,7 +38,6 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          plugin_habits_trim: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
@@ -57,6 +56,14 @@ jobs:
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
           plugin_leetcode_user: salastro
+          plugin_music: yes
+          plugin_music_limit: 4
+          plugin_music_mode: top
+          plugin_music_played_at: yes
+          plugin_music_provider: spotify
+          plugin_music_time_range: short
+          plugin_music_top_type: artists
+          plugin_music_user: 31hs636rfqq52xwf5iwerpn4czea
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_shuffle: yes
@@ -65,6 +72,11 @@ jobs:
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://salastro.github.io/index.xml
+          plugin_screenshot: yes
+          plugin_screenshot_background: yes
+          plugin_screenshot_selector: body
+          plugin_screenshot_title: My website
+          plugin_screenshot_url: https://salastro.github.io
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
