@@ -31,12 +31,6 @@ jobs:
           base_indepth: yes
           config_timezone: Africa/Cairo
           plugin_chess: yes
-          plugin_chess_animation: {
-  "size": 40,
-  "delay": 3,
-  "duration": 0.6
-}
-
           plugin_chess_platform: lichess.org
           plugin_chess_user: Salah_El-Din
           plugin_habits: yes
@@ -70,9 +64,6 @@ jobs:
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://salastro.github.io/index.xml
           plugin_screenshot: yes
           plugin_screenshot_background: yes
           plugin_screenshot_selector: body
