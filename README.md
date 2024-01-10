@@ -1,4 +1,4 @@
-# Find what verily lies in one's very own self: the truth that cannot be replaced.
+# Truth is just a construct subject to change given suitable conditions.
 
 <p align="center">
 	<img src="/github-metrics.svg" alt="Metrics" width="400">
