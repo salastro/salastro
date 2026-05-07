@@ -66,8 +66,10 @@ jobs:
           plugin_people_types: followers, following
           plugin_screenshot: yes
           plugin_screenshot_background: yes
+          plugin_screenshot_mode: image
           plugin_screenshot_selector: body
-          plugin_screenshot_title: My website
+          plugin_screenshot_wait: 5
+          plugin_screenshot_title: WEBSITE
           plugin_screenshot_url: https://salastro.github.io
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
