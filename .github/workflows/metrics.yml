@@ -30,9 +30,9 @@ jobs:
           base: header, activity, community, repositories
           base_indepth: yes
           config_timezone: Africa/Cairo
-          plugin_chess: yes
-          plugin_chess_platform: lichess.org
-          plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
+          # plugin_chess: yes
+          # plugin_chess_platform: lichess.org
+          # plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
