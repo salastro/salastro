@@ -65,12 +65,9 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_mode: image
-          plugin_screenshot_selector: body
-          plugin_screenshot_wait: 5
-          plugin_screenshot_title: WEBSITE
-          plugin_screenshot_url: https://salastro.github.io
+          plugin_screenshot_title: XKCD of the day
+          plugin_screenshot_url: https://xkcd.com
+          plugin_screenshot_selector: "#comic img"
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
