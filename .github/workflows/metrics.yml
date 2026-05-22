@@ -33,14 +33,14 @@ jobs:
           # plugin_chess: yes
           # plugin_chess_platform: lichess.org
           # plugin_chess_token: ${{ secrets.CHESS_TOKEN }}
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          # plugin_habits: yes
+          # plugin_habits_charts: yes
+          # plugin_habits_charts_type: classic
+          # plugin_habits_days: 14
+          # plugin_habits_facts: yes
+          # plugin_habits_from: 200
+          # plugin_habits_languages_limit: 8
+          # plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
